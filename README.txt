@@ -7,4 +7,4 @@ README:
 
 
 
-Programa creado por @K4ranyhi.
+
